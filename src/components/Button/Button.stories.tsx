@@ -27,3 +27,25 @@ export const DefaultBtn = Template.bind({});
 DefaultBtn.args = {
   variant: 'default'
 };
+
+export const OutlineBtn = Template.bind({});
+
+OutlineBtn.args = {
+    variant: 'outline'
+};
+
+export const TextBtn = Template.bind({});
+TextBtn.args = {
+    variant: 'text'
+};
+
+export const DisabledWithDefaultVariant = Template.bind({});
+DisabledWithDefaultVariant.args = {
+    isDisabled: true
+};
+
+export const DisabledWithTextVariant = Template.bind({});
+DisabledWithTextVariant.args = {
+    isDisabled: true,
+    variant: 'text'
+};

@@ -18,8 +18,8 @@ function App() {
           </Routes>
           </div>
           <div className="infos">
-            <h2 className="icons-link">Icons: <a href="https://material.io/resources/icons/?style=round">https://material.io/resources/icons/?style=round</a></h2>
-            <h2 className="created-by">created by <a href="https://devchallenges.io/portfolio/TheChiran">ChiranSWE</a> - devChallenges.io</h2>
+            <h2 className="icons-link">Icons: <a href="https://material.io/resources/icons/?style=round" target="_blank">https://material.io/resources/icons/?style=round</a></h2>
+            <h2 className="created-by">created by <a href="https://devchallenges.io/portfolio/TheChiran" target="_blank">ChiranSWE</a> - devChallenges.io</h2>
           </div>
         </div>
       </div>

@@ -1,7 +1,7 @@
 import {Routes, Route, Navigate} from 'react-router-dom';
 import './App.css'
-import Sidebar from './components/Sidebar/Index';
-import Buttons from './views/Buttons/Index';
+import Sidebar from '../../components/Sidebar/Index';
+import Buttons from '../../views/Buttons/Index';
 
 function App() {
   return (
